@@ -1,5 +1,4 @@
-{ 
-  "Cocktails":[
+[
     {
       "id": 1,
       "name":"Margarita",
@@ -102,5 +101,4 @@
       "imageURL":"-",
       "description": "Blalalla"
     }
-  ]
-}
+]

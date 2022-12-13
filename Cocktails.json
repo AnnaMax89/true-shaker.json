@@ -1,0 +1,62 @@
+{ 
+  "Coctails":[
+  {
+    "ID": 1,
+    "Name": "Margarita",
+    "Color": "None",
+    "Ingredients": [
+      "Lime wedge",
+      "Kosher salt",
+      "Top-shelf blanco tequila 60 ml",
+      "Freshly squeezed lime juice 30 ml",
+      "Cointreau 15 ml",
+      "Simple syrup or agave 15 ml",
+      "Lime wheel"
+    ],
+    "Image URL":""
+    "Description": "Now that we know the ingredients…how to make a margarita? This simple margarita recipe is (on the rocks) meaning that it’s served     over ice. It’s incredibly easy to make.Rim the glass with salt. A classic margarita has salt on the rim. Why? The salt enhances the sweet and sour flavors in the drink. Prepare your cocktail shaker and Let’s Go! - Take that tequila, Cointreau and lime juice. - Shake it together in a cocktail shaker with 4 ice cubes.- Strain the drink into a glass and add ice. What kind of glass to use for the best margarita? The margarita drink is often served in a lowball or Old Fashioned glass  as you see here, though of course the classic curved margarita glass works too."
+  }
+  {
+    "ID": 2,
+    "Name": "Majito",
+    "Color": "Yellow",
+    "Ingredients": [
+      "Fresh mint",
+      "Lime juice",
+      "Rum",
+      "Simple syrup",
+      "Soda water"
+    ],
+    "Image URL":""
+    "Description": "To make mojito, you’ll simply muddle mint, add the lime juice, rum, and simple syrup, and shake it in a cocktail shaker. Then top off the glass with club soda before serving. Muddling is gently mashing herbs or fruits to release their juices. This technique is often used in cocktails, because it helps the flavors incorporate better than if you just threw a mint sprig right into the drink. Is there a right way to muddle? In fact, there is! Here’s how to muddle mint…the right way: Place the mint leaves in the bottom of a cocktail shaker. If you don’t have one, you can use a large metal cup or bowl. Using a wooden cocktail muddler or unfinished wooden spoon, gently mash the mint a few times to release the juices. Do not mash the mint with a lot of force! The key to muddling is a light touch."
+  }
+  {
+    "ID": 3,
+    "Name": "Midori Sour",
+    "Color": "Green",
+    "Ingredients": [
+       "Midori liqueur 50 ml",
+       "Vodka 10 ml",
+       "Lime juice 15 ml",
+       "Lemon juice 15 ml",
+       "Soda water 30ml"
+    ],
+    "Image URL":""
+    "Description": "Bla bla"
+  }
+  {
+    "ID": 4,
+    "Name": "Moscow Mule",
+    "Color": "Yellow",
+    "Ingredients": [
+        "Vodka -50 ml",
+        "Bundaberg Ginger Beer -100 ml",
+        "lime juice- 25ml",
+        "The ginger (optional) 2 small pieces",
+        "lime to garnish"
+    ],
+    "Image URL":""
+    "Description": "Blalalla"
+  }
+  ]
+}
